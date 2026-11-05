@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-journal-approvals-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-journal-approvals",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_journal_approvals_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/journal-approvals.md",
+  "presentationPlan": "projects/accounting/flutter/journal-approvals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
